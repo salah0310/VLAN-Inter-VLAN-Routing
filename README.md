@@ -12,7 +12,7 @@ Design and implementation of a small enterprise network using Cisco Packet Trace
 - Verify inter-VLAN connectivity.
 
 ## Network Topology
-![Network Topology](Screenshots/01-Topology.png)
+![Network Topology](Screenshots/01_topology.svg)
 
 ## IP Addressing
 
